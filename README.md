@@ -24,7 +24,9 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 | 1-to-3 Splitter Wires | <img src="splitter_wires.png" alt="1-to-3 Splitter Wires" width="150"> | [Buy here](https://www.amazon.de/dp/B0FLJFHBJ9?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 | Speaker | <img src="speaker.png" alt="Speaker" width="150"> | [Buy here](https://www.amazon.de/dp/B089YMTR6L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 
-### Step 2: Install Arduino Drivers & Import FM Module Library
+### Step 2: Assemble Arduino Nano & Install Drivers / FM Module Library
+
+### Step 3: Install Arduino Drivers & Import FM Module Library
 
 1. **Install Arduino Drivers**  
    Download the driver here: [CH340 Driver for Windows 8+](https://www.arduined.eu/ch340-windows-8-driver-download/)  
