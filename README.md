@@ -35,3 +35,12 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
   ```text
    https://www.amazon.de/dp/B0CSZ4KB8W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
    ```
+
+
+### Step 2: Install Arduino Drivers & Import FM Module Library
+
+1. **Install Arduino Drivers for Windows 10+**  
+   Copy and paste the following link in your browser to download the driver:  
+   ```text
+   https://www.arduined.eu/ch340-windows-8-driver-download/
+
