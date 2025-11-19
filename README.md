@@ -11,4 +11,4 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 
 ## 🛠️ How It’s Built
 
-### Step 1: Hardware
+### Step 1: required hardware
