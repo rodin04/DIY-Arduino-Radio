@@ -27,20 +27,14 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 ### Step 2: Install Arduino Drivers & Import FM Module Library
 
 1. **Install Arduino Drivers for Windows 10+**  
-   Copy and paste the following link in your browser to download the driver:  
-   ```text
-   https://www.arduined.eu/ch340-windows-8-driver-download/
-   ```
-**For other operating systems (Mac, older Windows), check the product description of the Arduino Nano here:**
-  ```text
-   https://www.amazon.de/dp/B0CSZ4KB8W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-   ```
+   Download the driver here: [CH340 Driver for Windows 8+](https://www.arduined.eu/ch340-windows-8-driver-download/)  
+   > Copy & paste this link in your browser to download.  
+   > For other operating systems (Mac, older Windows), check the product description of the Arduino Nano here: [Arduino Nano on Amazon](https://www.amazon.de/dp/B0CSZ4KB8W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
+2. **Import the TEA5767 FM Module Library**  
+   - Download the ZIP library for the TEA5767 module.  
+   - Open Arduino IDE → Sketch → Include Library → Add .ZIP Library → Select the downloaded ZIP file.  
 
-### Step 2: Install Arduino Drivers & Import FM Module Library
-
-1. **Install Arduino Drivers for Windows 10+**  
-   Copy and paste the following link in your browser to download the driver:  
-   ```text
-   https://www.arduined.eu/ch340-windows-8-driver-download/
-
+3. **Select your board and COM port**  
+   - Tools → Board → Arduino Nano  
+   - Tools → Port → Select the COM port corresponding to your Nano
