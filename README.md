@@ -13,19 +13,9 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 
 ### Step 1: Required Hardware
 
-- **Arduino**:  
-  - Option 1: **Arduino Mega** (with shield/board for buttons, LEDs, etc.)  
-  - Option 2: **Arduino Nano**  
-    - Optional components for Nano setup only (if needed)  
-
-- Buttons (3-pin, standard, no weird variants)  
-- TEA5767 Stereo FM Radio Module  
-- Jumper wires for all connections  
-- 1-to-3 pin splitter cable  
-- Optional: AUX speaker with volume control
-
-
-### Step 1: Required Hardware
+- **Arduino** (choose one):  
+  - **Arduino Mega** – comes with shield/board for buttons, LEDs, etc.  
+  - **Arduino Nano** – may require some additional components depending on your setup  
 
 | Component | Image | Recommended Link |
 |-----------|-------|-----------------|
@@ -35,3 +25,5 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 | Jumper Wires | <img src="jumper_wires.png" alt="Jumper Wires" width="150"> | [Buy here](https://www.amazon.de/dp/B01EV70C78?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 | 1-to-3 Splitter Wires | <img src="splitter_wires.png" alt="1-to-3 Splitter Wires" width="150"> | [Buy here](https://www.amazon.de/dp/B0FLJFHBJ9?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 | Speaker | <img src="speaker.png" alt="Speaker" width="150"> | [Buy here](https://www.amazon.de/dp/B089YMTR6L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+
+> Note: Some components may be optional or only required if using Arduino Nano instead of Mega.
