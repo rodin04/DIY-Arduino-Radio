@@ -9,13 +9,11 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 - **Potentiometer** to adjust the frequency
 - **Precision mode** allows fine-tuning in 0.1 steps for exact frequency matching
 
-## 🛠️ How It’s Built
+## 🛠️ How the Arduino Nano radio is Built
 
 ### Step 1: Required Hardware
 
-- **Arduino** (choose one):  
-  - **Arduino Mega** – comes with shield/board for buttons, LEDs, etc.  
-  - **Arduino Nano** – may require some additional components depending on your setup  
+- **Arduino** & components:  
 
 | Component | Image | Recommended Link |
 |-----------|-------|-----------------|
