@@ -32,9 +32,11 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
    > For other operating systems (Mac, older Windows), check the product description here: [Arduino Nano on Amazon](https://www.amazon.de/dp/B0CSZ4KB8W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 2. **Import the TEA5767 FM Module Library**  
-   Download the ZIP library from this GitHub repository: [TEA5767 Library on GitHub](https://github.com/big12boy/TEA5767)
+   - Download the ZIP library from this GitHub repository: [TEA5767 Library on GitHub](https://github.com/big12boy/TEA5767)  
    - Then in Arduino IDE → *Sketch* → *Include Library* → *Add .ZIP Library* → Select the downloaded ZIP.  
-   - After that you can try the included examples.
+   - Alternatively, if you have Git installed, you can clone the library directly:  
+   ```bash
+   git clone https://github.com/big12boy/TEA5767.git
 
 3. **Select your board and COM port**  
    - In Arduino IDE: *Tools → Board → Arduino Nano*  
