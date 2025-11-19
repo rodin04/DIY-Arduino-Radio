@@ -30,4 +30,8 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
    Copy and paste the following link in your browser to download the driver:  
    ```text
    https://www.arduined.eu/ch340-windows-8-driver-download/
-
+   ```
+**For other operating systems (Mac, older Windows), check the product description of the Arduino Nano here:**
+  ```text
+   https://www.amazon.de/dp/B0CSZ4KB8W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+   ```
