@@ -13,8 +13,11 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 
 ### Step 1: Required Hardware
 
-- Arduino Mega (with shield/board for buttons, LEDs, etc.)  Arduino Nano
-**or**
+- **Arduino**:  
+  - Option 1: **Arduino Mega** (with shield/board for buttons, LEDs, etc.)  
+  - Option 2: **Arduino Nano**  
+    - Optional components for Nano setup only (if needed)  
+
 - Buttons (3-pin, standard, no weird variants)  
 - TEA5767 Stereo FM Radio Module  
 - Jumper wires for all connections  
