@@ -26,6 +26,16 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 
 ### Step 2: Assemble Arduino Nano & Install Drivers / FM Module Library
 
+1. First, connect the ports Nano -- TEA5767:
+
+- **GND (Arduino Nano) → GND (TEA5767)**
+- **5V (Arduino Nano) → 5V (TEA5767)**
+- **SDA (TEA5767) → A4 (Arduino Nano)**
+- **SCL (TEA5767) → A5 (Arduino Nano)**
+
+2. Nano -- 2 Buttons:
+
+
 ### Step 3: Install Arduino Drivers & Import FM Module Library
 
 1. **Install Arduino Drivers**  
