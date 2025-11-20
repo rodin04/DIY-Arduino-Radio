@@ -51,7 +51,14 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
    ```bash
    git clone https://github.com/big12boy/TEA5767.git
 
+### Step 4:
+1. **Plug your Nano into your PC**
+2. **Open the .ino script**
 3. **Select your board and COM port**  
    - In Arduino IDE: *Tools → Board → Arduino Nano*  
-   - Then *Tools → Port → Select the COM port corresponding to your Nano*  
+   - Then *Tools → Port → Select the COM port corresponding to your Nano*
+4. **Upload the script to your Nano**  
+   - Press **Ctrl + R** to verify/compile the code  
+   - Press **Ctrl + U** to upload it to the Nano
+
 
