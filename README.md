@@ -37,7 +37,7 @@ A DIY radio based on Arduino Mega, controlled with buttons and LEDs for channel 
 - **GND (Splitter Wire) → GND Button (- Pin)**
 - ** D2 & D3 Nano → Button (S Pin)**
 
-<img src="finished_radio.jpg" alt="Speaker" width="500">
+<img src="finished_radio.jpg" alt="Speaker" width="700">
 
 ### Step 3: Install Arduino Drivers & Import FM Module Library
 
